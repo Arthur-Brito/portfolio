@@ -195,6 +195,15 @@
         .apresentacao__conteudo {
             width: auto;
         }
+        
+         .descricao__eu {
+            padding: 5%;
+        }
+
+        .apresentacao__curriculo {
+            padding: 8%;
+            
+        }
     
     }
 
